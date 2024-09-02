@@ -1,1 +1,1 @@
-<img src="cnp training.jpg">
+<img src="cnpgit.jpg">
